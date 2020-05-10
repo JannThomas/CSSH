@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "CLibpq",
+    name: "CSSH",
     products: [
         .library(name: "libssh2", targets: ["libssh2"])
     ],
